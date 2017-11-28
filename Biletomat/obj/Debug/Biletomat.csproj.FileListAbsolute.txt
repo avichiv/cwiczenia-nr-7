@@ -1,0 +1,6 @@
+D:\dave\Biletomat\bin\Debug\Biletomat.exe.config
+D:\dave\Biletomat\obj\Debug\Biletomat.csprojResolveAssemblyReference.cache
+D:\dave\Biletomat\bin\Debug\Biletomat.exe
+D:\dave\Biletomat\bin\Debug\Biletomat.pdb
+D:\dave\Biletomat\obj\Debug\Biletomat.exe
+D:\dave\Biletomat\obj\Debug\Biletomat.pdb
